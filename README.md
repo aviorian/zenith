@@ -24,4 +24,4 @@ Please read our contributing guidelines before submitting pull requests.
 
 ## License
 
-[Add your license information here] 
+[Add your license information here]
