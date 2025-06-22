@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"passkey-kit": "^0.10.24"
+	}
+}
