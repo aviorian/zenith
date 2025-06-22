@@ -1,4 +1,4 @@
-# **Zenith: Tokenized Invoice Financing Marketplace on Stellar**
+# **Zenith: Invoice Financing Marketplace on Stellar**
 
 ## **1\. Executive Summary**
 
