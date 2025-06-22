@@ -1,3 +1,5 @@
+Pitch Deck Link - https://www.canva.com/design/DAGrAfdUuVU/Uo_-5c9VvHDEsCWMC07btA/edit?utm_content=DAGrAfdUuVU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Zenith
 
 Decentralized invoice financing platform built on Stellar blockchain using Soroban smart contracts.
