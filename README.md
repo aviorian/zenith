@@ -74,6 +74,9 @@ npm run test
 - **Wallet**: Freighter wallet integration
 - **Payments**: Moonpay/Ramp for fiat integration
 
+  ![image](https://github.com/user-attachments/assets/43c8be6f-b017-4e8b-ab14-6c8015e2f57d)
+
+
 ## Documentation
 
 - [Product Design Document](PDR-ZENITH-FRONTEND.md)
