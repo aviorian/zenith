@@ -353,7 +353,7 @@ impl InvoiceNFTContract {
             .get(&DataKey::InvoicesByStatus(old_status.clone()))
             .unwrap_or(Vec::new(env));
         
-        if let Some(index) = old_list.iter().position(|x| *x == invoice_id) {
+        if let Some(index) = old_list.iter().position(|x| x == invoice_id) {
             old_list.remove(index as u32);
             env.storage().persistent().set(&DataKey::InvoicesByStatus(old_status), &old_list);
         }

@@ -1,0 +1,16 @@
+[package]
+name = "liquidity-pool"
+version = "0.1.0"
+edition = "2021"
+publish = false
+description = "Zenith Liquidity Pool smart contract for USDC staking and invoice funding on Stellar"
+
+[lib]
+crate-type = ["lib", "cdylib"]
+doctest = false
+
+[dependencies]
+soroban-sdk = { workspace = true }
+
+[dev-dependencies]
+soroban-sdk = { workspace = true, features = ["testutils"] }
